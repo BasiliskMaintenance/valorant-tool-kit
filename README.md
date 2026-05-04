@@ -39,3 +39,7 @@ For educational purposes only. Use at your own risk.
 
 ## 📜 License
 MIT License
+
+---
+
+**See also**: [valorant-helper-tool](https://github.com/BasiliskMaintenance/valorant-helper-tool)
