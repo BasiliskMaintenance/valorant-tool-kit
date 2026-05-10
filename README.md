@@ -43,3 +43,7 @@ MIT License
 ---
 
 **See also**: [valorant-helper-tool](https://github.com/BasiliskMaintenance/valorant-helper-tool)
+
+---
+
+**See also**: [cs2-game-tool](https://github.com/BasiliskMaintenance/cs2-game-tool)
