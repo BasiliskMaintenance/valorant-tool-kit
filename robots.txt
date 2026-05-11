@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://BasiliskMaintenance.github.io/valorant-tool-kit/sitemap.xml
